@@ -6,11 +6,15 @@
 
 Console.WriteLine("Введите число от 1 до 7: ");
 int i = Convert.ToInt32(Console.ReadLine());
-int count = 0;
-
-if (i<6)
+                                    //int count = 0;
+                                    //if (i<6)
+if (i >= 1 && i <= 5)
 {
     Console.WriteLine("нет");
-    count ++;
+                                        // count++;
 }
-else Console.WriteLine("да");
+else if (i == 6 || i == 7)
+{
+    Console.WriteLine("да");
+}
+else Console.WriteLine("нет такого дня недели");
