@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\bin\Debug\net6.0\22.exe
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\bin\Debug\net6.0\22.deps.json
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\bin\Debug\net6.0\22.runtimeconfig.json
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\bin\Debug\net6.0\22.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\bin\Debug\net6.0\22.pdb
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.AssemblyInfo.cs
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\refint\22.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.pdb
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\22.genruntimeconfig.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\22\obj\Debug\net6.0\ref\22.dll
