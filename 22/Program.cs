@@ -81,14 +81,34 @@ if(sum<namber.Length)
 
 
 
-Console.WriteLine("Введите число: ");
-int namber = Convert.ToInt32(Console.ReadLine());
-namber = Math.Abs(namber);
-int sum = 0;
+// Console.WriteLine("Введите число: ");
+// int namber = Convert.ToInt32(Console.ReadLine());
+// namber = Math.Abs(namber);
+// int sum = 0;
 
-while (namber > 0)    
-{   
-        sum = sum + namber % 10;
-    namber = namber / 10;
+// while (namber > 0)    
+// {   
+//         sum = sum + namber % 10;
+//     namber = namber / 10;
+// }
+// Console.WriteLine($"Сумма цифр в числе равна {sum}");
+
+
+double[] arr = {0,1, 8,38, 2,1156, 36,7};
+double max = 0;
+// int count = 0;
+// while(count <= arr.Length)
+// {
+//     if(arr[0]>max) max = arr[0];
+//     count++;
+// }
+for(int i = 0; i<= arr.Length; i++)
+{
+    if(arr[i]>max) max = arr[i];
 }
-Console.WriteLine($"Сумма цифр в числе равна {sum}");
+Console.WriteLine($"Максимальный элемент массива: {max}");
+
+
+
+     
+       
