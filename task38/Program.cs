@@ -37,23 +37,3 @@ for (int g = 1; g < arr.Length; g++)
 Console.WriteLine($"Минимальный элемент массива: {min}");
 Console.WriteLine($"Разница между максимальным и минимальным элементами массива: {max - min}");
 
-
-
-
-// for (array i = max; 
-
-
-
-// array[0] = max;
-// if(array[1] > max) max = array[1];
-// if(array[2] > max) max = array[2];
-// if(array[3] > max) max = array[3];
-// if(array[4] > max) max = array[4];
-
-// array[0] = min;
-// if(array[1] < min) min = array[1];
-// if(array[2] < min) min = array[2];
-// if(array[3] < min) min = array[3];
-// if(array[4] < min) min = array[4];
-
-// Console.WriteLine($"Разница между максимальным и минимальным элементом массива равна {max}-{min}");
