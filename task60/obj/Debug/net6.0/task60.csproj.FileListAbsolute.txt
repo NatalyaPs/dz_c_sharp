@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.AssemblyInfo.cs
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\bin\Debug\net6.0\task60.exe
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\bin\Debug\net6.0\task60.deps.json
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\bin\Debug\net6.0\task60.runtimeconfig.json
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\bin\Debug\net6.0\task60.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\bin\Debug\net6.0\task60.pdb
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\refint\task60.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.pdb
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\task60.genruntimeconfig.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\task60\obj\Debug\net6.0\ref\task60.dll
