@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\bin\Debug\net6.0\001.exe
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\bin\Debug\net6.0\001.deps.json
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\bin\Debug\net6.0\001.runtimeconfig.json
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\bin\Debug\net6.0\001.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\bin\Debug\net6.0\001.pdb
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.AssemblyInfo.cs
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\refint\001.dll
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.pdb
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\001.genruntimeconfig.cache
+C:\Users\я\Desktop\Git-zanyatiya\Знаком_с_яз_програм_C#\Семинары_знаком_с_яз_прогр_C#\DZ_C_sharp\001\obj\Debug\net6.0\ref\001.dll
